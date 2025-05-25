@@ -2,7 +2,7 @@
 
 # One of The Fastest Deauther With ESP😎. We can Fuck All The 2.4ghz Wifi with This Gost👻
 
-# Features In Gost👹
+# $Features In Gost👹
 
 # Fastest Deauth Attack😎
 
@@ -20,4 +20,8 @@ Access The Deauther With SerialMonitor🥳
 
 ___________________________________________
 
+# Upload The BinFile into the ESP8266 with The flasher tool i given in the files 👾
 
+# Thats it Enjoy The Gost Use CareFully 
+
+____________________________________________
